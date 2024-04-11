@@ -7,6 +7,15 @@ To-Be scenario map cuando las empresas están buscando un buen restaurante para 
 
 ## 3.2. User Stories.
 
+### Epics:
+
+| Epics ID  | Titulo    | Descripcón|
+|-----------|-----------|-----------|
+| EP001 | Landing page | Como Empresa/Restaurante Quiero una página (app) Para saber acerca de la aplicación y poder ingresar a ella |
+| EP002 | Perfil de usuarios | Como Empresa/Restaurante Quiero configurar mi perfil de usuario Para poder ingresar a la aplicación y usar el aplicativo |
+| EP003 | Gestión de pedidos | Como Empresa/restaurante Quiero poder gestionar que pedidos tengo Para estar al pendiente del historial que estoy contratando |
+| EP004 | Pagos y promociones | Como Empresa Quiero realizar pagos y ver promociones de los restaurantes Para continuar con las solicitudes |
+
 
 #### User stories: 
 Aqui se describira los user stories de la aplicación web y de la landing page.
