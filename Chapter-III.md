@@ -53,3 +53,4 @@ Aqui se describira los user stories de la aplicación web y de la landing page.
 ![Impact-map-business](/assets/Impact-map-empresas.png)
 ## 3.4. Product Backlog.
 
+![Product-backlog](/assets/Product-backlog.png)
