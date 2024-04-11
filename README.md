@@ -41,16 +41,16 @@ Fecha: **marzo de 2024**.
 
 ## Capítulo I: Introducción
 - 1.1. [Startup Profile](docs/Chapter-I.md)
-  - 1.1.1. [Descripción de la Startup](/docs/chapter-I.md)
-  - 1.1.2. [Perfiles de integrantes del equipo](/docs/chapter-I.md)
-- 1.2. [Solution Profile](/docs/chapter-I.md)
-  - 1.2.1. [Antecedentes y problemática](/docs/chapter-I.md)
-  - 1.2.2. [Lean UX Process](/docs/chapter-I.md)
-    - 1.2.2.1. [Lean UX Problem Statements](/docs/chapter-I.md)
-    - 1.2.2.2. [Lean UX Assumptions](/docs/chapter-I.md)
-    - 1.2.2.3. [Lean UX Hypothesis Statements](/docs/chapter-I.md)
-    - 1.2.2.4. [Lean UX Canvas](/docs/chapter-I.md)
-- 1.3. [Segmentos objetivo](/docs/chapter-I.md)
+  - 1.1.1. [Descripción de la Startup](docs/Chapter-I.md)
+  - 1.1.2. [Perfiles de integrantes del equipo](docs/chapter-I.md)
+- 1.2. [Solution Profile](docs/chapter-I.md)
+  - 1.2.1. [Antecedentes y problemática](docs/chapter-I.md)
+  - 1.2.2. [Lean UX Process](docs/chapter-I.md)
+    - 1.2.2.1. [Lean UX Problem Statements](docs/chapter-I.md)
+    - 1.2.2.2. [Lean UX Assumptions](docs/chapter-I.md)
+    - 1.2.2.3. [Lean UX Hypothesis Statements](docs/chapter-I.md)
+    - 1.2.2.4. [Lean UX Canvas](docs/chapter-I.md)
+- 1.3. [Segmentos objetivo](docs/chapter-I.md)
 
 ## Capítulo II: Requirements Elicitation & Analysis
 - 2.1. [Competidores](./docs/chapter-II.md)
