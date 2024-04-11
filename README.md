@@ -2,7 +2,7 @@
 
 ## Universidad Peruana de Ciencia Aplicadas 
 
-![logo](/assets/img/logo/logo-upc.png)
+![logo](/assets/logo/logo-upc.png)
 
 ##### Nombre del curso: Desarrollo Open Source
 ##### Carrera: Ingeniería de Software
