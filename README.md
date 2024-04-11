@@ -40,7 +40,7 @@ Fecha: **marzo de 2024**.
 # Índice
 
 ## Capítulo I: Introducción
-- 1.1. [Startup Profile](./docs/chapter-I.md)
+- 1.1. [Startup Profile](docs/Chapter-I.md)
   - 1.1.1. [Descripción de la Startup](./docs/chapter-I.md)
   - 1.1.2. [Perfiles de integrantes del equipo](./docs/chapter-I.md)
 - 1.2. [Solution Profile](./docs/chapter-I.md)
