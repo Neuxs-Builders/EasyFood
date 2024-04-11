@@ -15,7 +15,7 @@ Easy Food es una plataforma web de suscripciones de almuerzos para empresas. Ofr
 ### 1.1.2. Perfiles de integrantes del equipo
 | Integrante  | Descripción  | Conocimiento  |
 |-------------|--------------|---------------|
-| Alejandro Torres Alva - u202022018 |...| ...|
+| Alejandro Torres Alva - u202022018 ![Integrante-Alejandro](../assets/Integrante-Alejandro.png) |...| Dentro de mis habilidades considero que tengo conocimientos básicos en programación en c ++ y python. También, considero que puedo apoyar a mi grupo en lo que se me encargue.|
 | Erick Alessander Vasquez Goicochea - u202019871|... | ...|
 | Juan Diego Huamán Monzón - u202123965 ![Integrante-Diego](../assets/Integrante-Diego.png)|... | ...|
 | Sebastián Córdova Valdivia - U202111041 ![Integrante-Sebas](../assets/Integrante-Sebas.jpeg)|Soy un estudiante de la Universidad Peruana de Ciencias Aplicadas. Actualmente tengo 20 años y me encuentro en el séptimo ciclo de la carrera de Ingeniería de Software.|Durante la carrera he adquirido conocimientos del uso de C + +, Python y  en el desarrollo web mediante el uso de HTML, CSS y JavaScript. También en el manejo de base de datos con SQL y realizar un modelo de redes para establecer conexiones entre diferentes sedes.|
