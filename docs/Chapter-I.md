@@ -283,5 +283,5 @@ Una app que mantenga una interfaz amigable e interactiva para el usuario.</p>
 
 ## 1.3. Segmentos objetivo.
 
--Restaurantes interesados en expandir su clientela y optimizar sus operaciones a través de un sistema digital de suscripciones.
+-Restaurantes interesados en expandir su clientela y optimizar sus operaciones a través de un sistema digital de suscripciones.<br>
 -Empresas que necesiten del servicio de los restaurantes para proveer diferentes opciones de comida a sus colaboradores.
